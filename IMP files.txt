@@ -1,0 +1,13 @@
+Windows App:
+1) App.config
+2) app.manifest
+3) AssemblyInfo.cs
+
+Web App:
+	1) Global.asax
+	2) Web.config
+	3) packages.config
+App_Start Folder ->
+	4) BundleConfig.cs
+	5) RouteConfig.cs
+	6) FilterConfig.cs
