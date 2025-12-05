@@ -2,6 +2,9 @@ Windows App:
 1) App.config
 2) app.manifest
 3) AssemblyInfo.cs
+4) Resources.resx
+5) Settings.settings
+6) Program.cs
 
 Web App:
 	1) Global.asax
